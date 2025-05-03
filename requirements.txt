@@ -1,0 +1,4 @@
+transformers==4.51.3
+unsloth
+triton==3.2.0
+wandb
