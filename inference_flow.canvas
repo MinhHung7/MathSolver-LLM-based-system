@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"03efa5599ecd314c","type":"group","x":-1080,"y":-360,"width":2120,"height":860,"color":"5","label":"Inference flow"},
+		{"id":"3379b8a072b362af","type":"group","x":-301,"y":-274,"width":721,"height":403,"color":"3","label":"Hallucination Decreasing"},
+		{"id":"60bcd583043189bd","type":"group","x":80,"y":-199,"width":310,"height":298,"color":"4","label":"Solution Evaluator"},
+		{"id":"f4ea2e3bec4f0935","type":"group","x":540,"y":180,"width":290,"height":271,"color":"#70e92f","label":"Top K=3 Solutions"},
+		{"id":"1c6b15c50b068638","type":"group","x":-1055,"y":-29,"width":364,"height":208,"color":"1","label":"Input"},
+		{"id":"2294370983271e52","type":"group","x":540,"y":-179,"width":290,"height":261,"color":"#64e65b","label":"Correct Solutions"},
+		{"id":"9ae5e9fe8ecd3aab","type":"group","x":-281,"y":-179,"width":290,"height":258,"color":"#54cbf2","label":"Solution Batch"},
+		{"id":"b64b30072fe20937","type":"text","text":"Solution $X_1$","x":-261,"y":-159,"width":250,"height":60},
+		{"id":"a43f3a9bea613779","type":"text","text":"Solution $X_2$","x":-261,"y":-79,"width":250,"height":60},
+		{"id":"805426775eb5ebf4","type":"text","text":"Solution $X_3$","x":-261,"y":2,"width":250,"height":60},
+		{"id":"c26ecabcf98f39d9","type":"text","text":"**Solution Support LLM**\n","x":100,"y":-179,"width":270,"height":60,"color":"5"},
+		{"id":"74ba8603c3b0af58","type":"file","file":"images/OpenAI API.png","x":100,"y":-79,"width":270,"height":158},
+		{"id":"ff74de0ab1fb37f0","type":"text","text":"Solution $X'_1$ - Correct","x":560,"y":200,"width":250,"height":60},
+		{"id":"3b2f1c30ff90fd41","type":"text","text":"Solution $X'_2$ - Correct","x":560,"y":280,"width":250,"height":60},
+		{"id":"018df74a562d111a","type":"text","text":"**Solution Generator**","x":-635,"y":-79,"width":250,"height":60,"color":"6"},
+		{"id":"b059ba2ab13a7250","type":"text","text":"**Prompt**","x":-1035,"y":-9,"width":324,"height":60,"color":"3"},
+		{"id":"5d13b146928483dc","type":"text","text":"Solution $X'_3$ - Correct","x":560,"y":361,"width":250,"height":60},
+		{"id":"16eb69adbf2b538d","type":"text","text":"Solution $X'_2$ - Correct","x":560,"y":-79,"width":250,"height":60},
+		{"id":"e81c062183a6e733","type":"text","text":"Solution $X'_3$ - Correct","x":560,"y":1,"width":250,"height":60},
+		{"id":"f5fea26785175f9d","type":"text","text":"Solution $X'_1$ - Correct","x":560,"y":-159,"width":250,"height":60},
+		{"id":"3653182866b4954a","type":"text","text":"**Prompt Format**","x":-1035,"y":99,"width":324,"height":60,"color":"4"},
+		{"id":"cbed3ce967d55785","type":"file","file":"images/Hugging Face Hub.png","x":-1035,"y":-274,"width":324,"height":90},
+		{"id":"d51df6dc8647aff7","type":"text","text":"**Solution $X'_1$ - Correct**","x":-635,"y":280,"width":250,"height":70,"color":"4"}
+	],
+	"edges":[
+		{"id":"88e0f935b30c76e6","fromNode":"60bcd583043189bd","fromSide":"right","toNode":"2294370983271e52","toSide":"left"},
+		{"id":"0bba17e8f4f517b1","fromNode":"9ae5e9fe8ecd3aab","fromSide":"right","toNode":"60bcd583043189bd","toSide":"left"},
+		{"id":"9cd23f2e6fb1f52a","fromNode":"b059ba2ab13a7250","fromSide":"bottom","toNode":"3653182866b4954a","toSide":"top"},
+		{"id":"44f7c3907b79603a","fromNode":"3653182866b4954a","fromSide":"right","toNode":"018df74a562d111a","toSide":"left"},
+		{"id":"9af0c7fc9c66af13","fromNode":"018df74a562d111a","fromSide":"right","toNode":"b64b30072fe20937","toSide":"left"},
+		{"id":"17d54aca710260b4","fromNode":"018df74a562d111a","fromSide":"right","toNode":"a43f3a9bea613779","toSide":"left"},
+		{"id":"a3b1878392f859ad","fromNode":"018df74a562d111a","fromSide":"right","toNode":"805426775eb5ebf4","toSide":"left"},
+		{"id":"a2391846b00193dd","fromNode":"cbed3ce967d55785","fromSide":"right","toNode":"018df74a562d111a","toSide":"left","label":"load model, tokenizer"},
+		{"id":"a385b1bfb9865f27","fromNode":"2294370983271e52","fromSide":"right","toNode":"f4ea2e3bec4f0935","toSide":"right","label":"re-ranking"},
+		{"id":"fb260c3ca528cb12","fromNode":"f4ea2e3bec4f0935","fromSide":"left","toNode":"d51df6dc8647aff7","toSide":"right"},
+		{"id":"b49e039e1a773f41","fromNode":"d51df6dc8647aff7","fromSide":"top","toNode":"018df74a562d111a","toSide":"bottom","label":"reinforcement learning"}
+	]
+}

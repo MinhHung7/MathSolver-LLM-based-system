@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"86c6e85921f4313d","type":"group","x":-703,"y":-960,"width":2263,"height":360,"color":"5","label":"Training flow"},
+		{"id":"8dbe4c04dd736e1e","type":"group","x":524,"y":-940,"width":290,"height":320,"color":"6","label":"Solution Generator"},
+		{"id":"311914a66e587f98","type":"text","text":"**QLoRA fine-tune, adamw_8bit**","x":544,"y":-920,"width":250,"height":60},
+		{"id":"ad11a3153cf6758d","type":"text","text":"**Math Dataset**\n- MetaMathQA-40K","x":-683,"y":-840,"width":250,"height":119,"color":"3"},
+		{"id":"07f0fe4676dea5b5","type":"text","text":"**Data Preprocessing**\n- Convert jsonl\n- Split train set, val set","x":-313,"y":-839,"width":250,"height":119,"color":"4"},
+		{"id":"533ee3725ce796a6","type":"text","text":"**Mapping tokenizer**\n- \"Chatml\" chat template\n- Maps <|im_end|> to \\</s> instead\n- convert \"conversation\" format","x":39,"y":-869,"width":340,"height":180,"color":"2"},
+		{"id":"48bc213d5e4a0f1c","type":"text","text":"**Mistral 7B Model**","x":544,"y":-819,"width":250,"height":60},
+		{"id":"fd6adbf6b9cfce98","type":"file","file":"images/Unsloth Framework.png","x":547,"y":-719,"width":247,"height":80},
+		{"id":"3beca360b615497f","type":"file","file":"images/Hugging Face Hub.png","x":1160,"y":-914,"width":324,"height":90},
+		{"id":"12be625d5acdcef9","type":"file","file":"images/wandb_logo_full.png","x":1160,"y":-719,"width":322,"height":50}
+	],
+	"edges":[
+		{"id":"cc661b8c62654380","fromNode":"311914a66e587f98","fromSide":"left","toNode":"48bc213d5e4a0f1c","toSide":"left"},
+		{"id":"54d2dbd45702336e","fromNode":"48bc213d5e4a0f1c","fromSide":"right","toNode":"311914a66e587f98","toSide":"right"},
+		{"id":"036016ea14473490","fromNode":"48bc213d5e4a0f1c","fromSide":"left","toNode":"fd6adbf6b9cfce98","toSide":"left"},
+		{"id":"c8720807f8903816","fromNode":"fd6adbf6b9cfce98","fromSide":"right","toNode":"48bc213d5e4a0f1c","toSide":"right"},
+		{"id":"e14b29d4afa1067f","fromNode":"ad11a3153cf6758d","fromSide":"right","toNode":"07f0fe4676dea5b5","toSide":"left"},
+		{"id":"2290159eb4ae91ce","fromNode":"07f0fe4676dea5b5","fromSide":"right","toNode":"533ee3725ce796a6","toSide":"left"},
+		{"id":"fd93d1a0e3423313","fromNode":"533ee3725ce796a6","fromSide":"right","toNode":"8dbe4c04dd736e1e","toSide":"left"},
+		{"id":"1e0d5cfed7b3aa14","fromNode":"8dbe4c04dd736e1e","fromSide":"right","toNode":"3beca360b615497f","toSide":"left","label":"save LoRA adapter"},
+		{"id":"bf2e32c8ec33705e","fromNode":"8dbe4c04dd736e1e","fromSide":"right","toNode":"12be625d5acdcef9","toSide":"left","label":"save logs"}
+	]
+}
