@@ -1,0 +1,424 @@
+Estimate-To find a number that is close to an exact amount.
+Equation-An algebraic or numerical sentence that shows that two quantities areequal.
+Front-end estimation-A method of estimating sums or differences by using the valueof the front digits of the numbers.
+Solution-A value that, when substituted for the variable, makes an equation true.
+Expression-A mathematical phrase or the part of a number sentence that combines numbers, operation signs,and sometimes variables, but doesn’t have an equal sign.
+Inequality-A mathematical sentence that shows that two amounts are not equal.
+Variable-A letter or symbol that stands for one or more numbers.
+Commutative Property of Addition-The property that states that when the order of two addends is changed, the sum is the same.
+Associative Property of Addition-The property that states that when the grouping of addends is changed, the sum is the same.
+Population-The entire group of objects or individuals considered for a survey.
+Random sample-A sample in which each subject in the overall population has an                           equal chance of being chosen.
+Survey-A method of gathering information about a group.
+Cumulative frequency-A running total of data.
+Sample-A part of a population.
+Outlier-A value separated from the rest of the data.
+Mean-The average of a set of numbers, found by dividing the sum of the set by the   number of addends.
+Scale-A series of numbers starting at zero and placed at fixed distances on a graph to help label the graph.
+Median-The middle number in a set of data that are arranged in order.
+Interval-The distance between one number and the next on the scale of a graph.
+Mode-The number or numbers that occur most often in a setof data.
+Stem-and-leaf plot-A table that shows groups of data arranged by place value.
+Histogram-A bar graph that shows the number of times data occur within intervals.
+Multiple-The product of a given whole number and another whole number.
+Function-A relationship between two quantities in which one quantity depends on the other.
+Compatiblenumbers-Numbers that are easy to compute mentally.
+CommutativePropertyofMultiplication-The property that states that when the order of two factors is changed, the product is the same.
+Evaluate-To find the value of a numerical or algebraic expression.
+AssociativePropertyMultiplication-The property that states that the way factors are grouped does not change the product.
+Distributiveproperty-The property that states that multiplying a sum by a number is the same as multiplying each addend in the sum by the number and then adding the products.
+Divisible-Capable of being divided without a remainder.
+Exponent-A number that shows how many times the base is used as a factor.
+Greatestcommonfactor(GCF)-The greatest factor that twoor more numbers have in common.
+Base-A number used as a repeated factor.
+Commonmultiple-A number that is a multiple of two or more numbers.
+Squarenumber-A product of a number and itself.
+Leastcommonmultiple(LCM)-The least number, other than zero, that is a common multiple of two or more numbers.
+PrimeNumber-A whole number that has exactly two factors: I and itself.
+Simplestform-The form of a fraction in which the numerator and denominator have only I as a common factor.
+Primefactorization-The process of factoring a composite number into its prime components, as with a factor tree, so that it is written asthe product of all its prime factors.
+Mixednumber-A number that is made up of a whole number and a fraction.
+Factortree-A diagram that shows the prime factors of a number.
+Leastcommondenominator(LCD)-The least common multiple of two ormore denominators.
+Equivalentfractions-Fractions that name the same number or amount.
+Point-An exact location in space, usually represented by a dot.
+Plane-A flat surface that extends without end in all directions.
+Line-A straight path in a plane, extending in both directions with no endpoints.
+Angle-A figure formed by two rays that meet at a common endpoint.
+Ray-A part of line; it begins at one endpoint and extends forever in one direction.
+Parallellines-Lines in a plane that do not intersect.
+Linesegment-A part of a line between two endpoints.
+Intersectinglines-Lines that cross each other at exactly one point.
+Perpendicular lines-Twolines that intersect to form right angles.
+Regular polygon-A polygon in which all sides are congruent and all angles are congruent.
+Degree-A unit for measuring angles or temperature.
+Circle-A closed figure with all points on the figure the same distance from the center point.
+Protractor-A tool used for measuring or drawing angles.
+Radius-A line segment with one endpoint at the center of a circle and the other endpoint on the circle.
+Polygon-a closed plane figure formed by three or more line segments.
+Diameter-A line segment that passes through the center of a circle and has its endpoints on the circle.
+Chord-A line segment with endpoints on a circle.
+Similar-Having the same shape but not necessarily the same size.
+Compass-A tool used to construct circles and arcs.
+Corresponding angles-Angles that are in the same position in different plane figures.
+Central angle-An angle formed by two radii of a circle that meet at its center.
+Corresponding sides-Sides that are in the same position in different plane figures.
+Congruent-Having the same size and shape.
+Line symmetry-The property of a figure that can be separated by a line into two congruent parts.
+Leg-In a right triangle, either of two sides that form the right angle.
+Isosceles triangle-A triangle with exactly two congruent sides.
+Hypotenuse-In a right triangle, the side opposite the right angle; the longest side in a right triangle.
+Scalene triangle-A triangle with no congruent sides.
+Figurate numbers-Numbers that can be represented by geometric figures.
+Equilateral triangle-A triangle with three congruent sides.
+Triangular numbers-Numbers that can be represented by triangular figures.
+Trapezoid-A quadrilateral with exactly one pair of parallel sides.
+Reflection-A movement of a figure to a new position by flipping it over a line; a flip.
+Rhombus-a parallelogram with congruent sides.
+Rotation-A movement of a figure to a new position by turning it around a fixed point; a turn.
+Parallelogram-A quadrilateral whose opposite sides are parallel and congruent.
+Transformation-The movement of a figure to a new position by a translation, reflection, or rotation.
+Translation-A movement of a figure to a new position along a straight line; a slide.
+Tessellation-A repeating pattern of closed figures that covers a surface with no gaps and no overlaps.
+Polyhedron-A solid figure with faces that are polygons.
+Integers-The set of whole numbers and their opposites.
+Pyramid-A solid figure with a polygon base and all other faces are triangles that meet at a common vertex.
+Negative integer-Any integer less than zero.
+Prism-A solid figure that has two congruent, polygon-shaped bases and whose other faces are all rectangles.
+Positive integer-Any integer greater than zero.
+Base-A polygon’s side or a solid figure’s face by which the figure is measured or named.
+Opposites-Two numbers that are the same distance, but in opposite directions, from zero on a number line.
+Absolute value-The distance of a number from zero on a number line.
+X-axis-The horizontal number line on a coordinate plane.
+Coordinates-The numbers in a ordered pair.
+Y-axis-The vertical number line on a coordinate plane.
+Precision-A property of measurement that is related to the unit of measure used; the smaller the unit of measure used, the more precise the measurement.
+Coordinate plane-A plane formed by two intersecting and perpendicular number lines called axes.
+Perimeter-The distance around a closed plane figure.
+Circumference-The distance around a circle.
+Area-The number of square units needed to cover a surface.
+Group-A set equipped with an operation that combines any two elements to form a third element, satisfying closure, associativity, identity, and invertibility.
+Ring-A set equipped with two binary operations, addition and multiplication, satisfying properties analogous to those of integers.
+Field-A set on which addition, subtraction, multiplication, and division are defined and satisfy the usual arithmetic properties.
+Vector Space-A set of vectors where vector addition and scalar multiplication are defined and satisfy certain axioms.
+Eigenvalue-A scalar associated with a linear transformation that stretches or shrinks vectors without changing their direction.
+Eigenvector-A non-zero vector that changes by only a scalar factor under a linear transformation.
+Manifold-A topological space that locally resembles Euclidean space and allows for calculus to be performed.
+Metric Space-A set where a distance (metric) is defined between elements.
+Norm-A function that assigns a non-negative length or size to vectors in a vector space.
+Inner Product-A generalization of the dot product that allows definition of angles and lengths in vector spaces.
+Orthogonal-Two vectors are orthogonal if their inner product is zero, meaning they are perpendicular in some sense.
+Basis-A set of linearly independent vectors that span the entire vector space.
+Dimension-The number of vectors in a basis for a vector space.
+Linear Transformation-A mapping between vector spaces that preserves vector addition and scalar multiplication.
+Isomorphism-A bijective mapping between structures that preserves their operations and relations.
+Homomorphism-A mapping between algebraic structures that preserves operations.
+Kernel-The set of elements that map to the identity element under a given mapping.
+Image-The set of output values produced by a function or mapping.
+Surjective-A function that maps its domain onto its entire codomain.
+Injective-A function where each element of the codomain is mapped by at most one element of the domain.
+Bijective-A function that is both injective and surjective, establishing a one-to-one correspondence.
+Differentiable-A function is differentiable at a point if its derivative exists at that point.
+Integral-The accumulation of quantities, often representing areas under curves.
+Gradient-A vector consisting of partial derivatives, pointing in the direction of greatest increase of a function.
+Hessian-A square matrix of second-order partial derivatives of a scalar-valued function.
+Jacobian-A matrix of first-order partial derivatives describing the rate of change of a vector-valued function.
+Laplace Transform-An integral transform that converts a function of time into a function of complex frequency.
+Fourier Transform-A mathematical transform that decomposes functions into oscillatory components.
+Convolution-An operation on two functions producing a third function expressing how the shape of one is modified by the other.
+Autocorrelation-A measure of the similarity of a signal with a delayed version of itself.
+Characteristic Polynomial-A polynomial derived from a matrix, used to find eigenvalues.
+Determinant-A scalar value that can be computed from the elements of a square matrix, providing information about the matrix’s invertibility.
+Trace-The sum of the diagonal elements of a square matrix.
+Rank-The maximum number of linearly independent rows or columns in a matrix.
+Nullity-The dimension of the kernel of a matrix or linear transformation.
+Singular Value Decomposition-A factorization of a matrix into three specific matrices, used in signal processing and statistics.
+Principal Component Analysis-A technique for reducing the dimensionality of data by transforming to new variables that maximize variance.
+Markov Chain-A stochastic process with the property that the future state depends only on the current state.
+Probability Density Function-A function that describes the relative likelihood of a continuous random variable taking on a given value.
+Cumulative Distribution Function-A function giving the probability that a random variable is less than or equal to a given value.
+Moment-A quantitative measure related to the shape of a function's graph, often used in statistics.
+Variance-A measure of the spread of a set of values around their mean.
+Covariance-A measure of how much two random variables change together.
+Correlation Coefficient-A standardized measure of the strength and direction of association between two variables.
+Random Variable-A variable representing a numerical outcome of a random phenomenon.
+Expectation-The weighted average of all possible values of a random variable.
+Law of Large Numbers-A theorem stating that the sample average converges to the expected value as the sample size grows.
+Central Limit Theorem-A fundamental theorem stating that the sum of many independent random variables tends toward a normal distribution.
+Hypothesis Test-A statistical method for testing a proposed hypothesis about a population parameter.
+Confidence Interval-A range of values, derived from sample data, that is likely to contain a population parameter.
+Bayes' Theorem-A formula that describes the probability of an event based on prior knowledge of related conditions.
+Likelihood-A function of parameters given observed data, used in statistical inference.
+Maximum Likelihood Estimation-A method for estimating parameters by maximizing the likelihood function.
+Regression-A statistical technique for modeling the relationship between variables.
+Least Squares Method-A standard approach to minimizing the sum of the squares of the differences between observed and estimated values.
+Gradient Descent-An optimization algorithm for finding the minimum of a function by iteratively moving in the direction of steepest descent.
+Convex Function-A function whose domain forms a convex set and whose graph lies below the line segment connecting any two points on the graph.
+Optimization-The process of finding the best solution to a problem within a given set of constraints.
+Lagrange Multiplier-A strategy for finding the local maxima and minima of a function subject to equality constraints.
+Duality-A concept where optimization problems can be expressed in a dual form, often providing deeper insight or alternative solutions.
+Linear Programming-An optimization technique for maximizing or minimizing a linear objective function subject to linear constraints.
+Integer Programming-An optimization technique where some or all variables are constrained to be integers.
+Combinatorics-The branch of mathematics dealing with counting, arrangement, and combination of objects.
+Graph Theory-The study of graphs, mathematical structures used to model pairwise relations between objects.
+Tree-A connected acyclic graph with no cycles.
+Spanning Tree-A subgraph that connects all vertices of a graph without forming any cycles.
+Eulerian Path-A trail in a graph that visits every edge exactly once.
+Hamiltonian Path-A path in a graph that visits each vertex exactly once.
+Adjacency Matrix-A matrix representing the connections between vertices in a graph.
+Incidence Matrix-A matrix that shows the relationship between vertices and edges in a graph.
+Planar Graph-A graph that can be drawn on a plane without edges crossing.
+Chromatic Number-The minimum number of colors needed to color a graph so that no two adjacent vertices share the same color.
+Topology-The study of properties of space that are preserved under continuous deformations.
+Homeomorphism-A continuous deformation of one topological space into another that preserves topological properties.
+Compactness-A property indicating that a space is limited in extent and closed under limit operations.
+Connectedness-A property indicating that a space is in one piece and cannot be separated into disjoint parts.
+Fundamental Group-An algebraic structure that describes the basic shape, or holes, of a topological space.
+Covering Space-A topological space that maps onto another space in a locally homeomorphic way.
+Homology-A method of associating a sequence of abelian groups or modules with a topological space.
+Cohomology-A mathematical tool for studying topological spaces that refines homology.
+Differential Geometry-The study of geometry using calculus and differential equations.
+Geodesic-The shortest path between two points in a curved space.
+Riemannian Metric-A way of measuring lengths and angles on a curved surface.
+Curvature-A measure of how much a geometric object deviates from being flat.
+Differential Equation-An equation involving derivatives of a function.
+Partial Differential Equation-A differential equation involving partial derivatives of multivariable functions.
+Ordinary Differential Equation-A differential equation involving functions of a single variable and their derivatives.
+Boundary Value Problem-A differential equation together with a set of additional constraints called boundary conditions.
+Stochastic Process-A collection of random variables representing a process evolving over time.
+Brownian Motion-A continuous-time stochastic process with applications in physics and finance.
+Martingale-A stochastic process with the property that its expected future value, given all past information, equals its present value.
+Ergodic Theory-The study of dynamical systems with an invariant measure and related problems of long-term average behavior.
+Chaos Theory-The study of systems that exhibit sensitive dependence on initial conditions.
+Fractal-A complex geometric shape that can be split into parts, each of which is a reduced-scale copy of the whole.
+Number Theory-The branch of mathematics devoted to the study of integers and integer-valued functions.
+Prime Number-A natural number greater than 1 that has no positive divisors other than 1 and itself.
+Greatest Common Divisor-The largest integer that divides two numbers without leaving a remainder.
+Modular Arithmetic-A system of arithmetic for integers where numbers wrap around upon reaching a certain value, called the modulus.
+Diophantine Equation-A polynomial equation for which integer solutions are sought.
+Cryptography-The practice and study of techniques for securing communication and information.
+Elliptic Curve-A smooth, projective, algebraic curve used in number theory and cryptography.
+Fourier Series-A way to represent a function as a sum of periodic components and to recover the signal from those components.
+Wavelet Transform-A mathematical transform that decomposes a function into wavelets, useful for analyzing localized variations of power.
+Zeta Function-A special function of great significance in number theory and mathematical analysis, particularly the Riemann zeta function.
+Gamma Function-A function that extends the factorial function to complex and real number arguments.
+Addition-The process of finding the total or sum by combining two or more numbers.
+Subtraction-The process of finding the difference between two numbers.
+Multiplication-A mathematical operation to find the total of a number added to itself repeatedly.
+Division-The process of splitting a number into equal parts.
+Number-A basic mathematical unit used for counting, measuring, and labeling.
+Digit-Any of the ten symbols from 0 to 9 used to write numbers.
+Even Number-A whole number that is divisible by 2.
+Odd Number-A whole number that is not divisible by 2.
+Prime Number-A whole number greater than 1 that has exactly two factors, 1 and itself.
+Composite Number-A whole number greater than 1 that has more than two factors.
+Factor-A number that divides another number exactly.
+Multiple-The product of a number and any whole number.
+Square Number-A number that is the product of a number multiplied by itself.
+Cube Number-A number that is the product of a number multiplied by itself twice.
+Square Root-A value that, when multiplied by itself, gives the original number.
+Cube Root-A value that, when multiplied by itself twice, gives the original number.
+Fraction-A way to represent a part of a whole or a division of quantities.
+Numerator-The top number in a fraction representing how many parts are considered.
+Denominator-The bottom number in a fraction showing the total number of parts.
+Decimal-A number that includes a decimal point to represent parts of a whole.
+Percentage-A way of expressing a number as a fraction of 100.
+Ratio-A comparison of two quantities by division.
+Proportion-An equation stating that two ratios are equal.
+Variable-A symbol used to represent an unknown value.
+Expression-A combination of numbers, variables, and operations without an equals sign.
+Equation-A mathematical statement that two expressions are equal.
+Inequality-A mathematical statement comparing two expressions using <, >, ≤, or ≥.
+Solution-The value or set of values that make an equation or inequality true.
+Estimate-To find a number that is close to an exact amount.
+Rounding-Reducing a number to a nearby, simpler value.
+Absolute Value-The distance of a number from zero on the number line.
+Mean-The sum of values divided by the number of values; also called average.
+Median-The middle value in a set of numbers ordered from least to greatest.
+Mode-The number that appears most frequently in a data set.
+Range-The difference between the highest and lowest values in a set.
+Data-A collection of facts, numbers, or measurements.
+Graph-A diagram that shows the relationship between sets of data.
+Bar Graph-A graph using bars to represent data quantities.
+Line Graph-A graph that uses lines to show changes over time.
+Pie Chart-A circular graph divided into slices to show parts of a whole.
+Histogram-A graph showing the frequency of data within equal intervals.
+Coordinate Plane-A two-dimensional surface formed by a horizontal and a vertical number line.
+X-Axis-The horizontal line on a coordinate plane.
+Y-Axis-The vertical line on a coordinate plane.
+Origin-The point where the x-axis and y-axis intersect on a coordinate plane, represented by (0,0).
+Point-A location in space with no size, represented by a dot.
+Line-A straight one-dimensional figure extending infinitely in both directions.
+Line Segment-A part of a line with two endpoints.
+Ray-A part of a line that starts at a point and extends infinitely in one direction.
+Angle-The space between two intersecting lines or rays, measured in degrees.
+Right Angle-An angle that measures exactly 90 degrees.
+Acute Angle-An angle that measures less than 90 degrees.
+Obtuse Angle-An angle that measures more than 90 degrees but less than 180 degrees.
+Straight Angle-An angle that measures exactly 180 degrees.
+Triangle-A polygon with three sides and three angles.
+Equilateral Triangle-A triangle with all sides and angles equal.
+Isosceles Triangle-A triangle with two sides of equal length.
+Scalene Triangle-A triangle with all sides of different lengths.
+Quadrilateral-A polygon with four sides and four angles.
+Rectangle-A quadrilateral with opposite sides equal and all angles 90 degrees.
+Square-A rectangle with all sides of equal length.
+Parallelogram-A quadrilateral with opposite sides parallel and equal in length.
+Rhombus-A parallelogram with all sides of equal length.
+Trapezoid-A quadrilateral with at least one pair of parallel sides.
+Polygon-A closed two-dimensional figure with straight sides.
+Circle-A set of points that are all the same distance from a central point.
+Radius-The distance from the center of a circle to any point on its edge.
+Diameter-A line segment that passes through the center of a circle and connects two points on its edge.
+Circumference-The distance around the edge of a circle.
+Area-The measure of the space inside a two-dimensional figure.
+Perimeter-The distance around the boundary of a two-dimensional figure.
+Volume-The amount of space occupied by a three-dimensional object.
+Surface Area-The total area of the surface of a three-dimensional object.
+Cube-A three-dimensional shape with six equal square faces.
+Rectangular Prism-A three-dimensional shape with six rectangular faces.
+Sphere-A three-dimensional shape where all points are equidistant from the center.
+Cylinder-A three-dimensional shape with two parallel circular bases connected by a curved surface.
+Cone-A three-dimensional shape with a circular base and a point called the apex.
+Pyramid-A three-dimensional shape with a polygonal base and triangular faces meeting at a point.
+Probability-The measure of how likely an event is to occur.
+Experiment-A procedure to observe and record outcomes of a random process.
+Outcome-A possible result of an experiment.
+Event-A set of outcomes in an experiment.
+Sample Space-The set of all possible outcomes of an experiment.
+Independent Events-Events where the outcome of one does not affect the outcome of another.
+Dependent Events-Events where the outcome of one affects the outcome of another.
+Permutation-An arrangement of items in a specific order.
+Combination-A selection of items without regard to order.
+Function-A relation where each input has exactly one output.
+Input-The value that is put into a function.
+Output-The result from applying a function to an input.
+Slope-The measure of the steepness of a line.
+Intercept-The point where a line crosses the x-axis or y-axis.
+Pattern-A repeated or regular arrangement of numbers, shapes, or other elements.
+Sequence-An ordered list of numbers following a specific pattern or rule.
+Term-A single number, variable, or product in an expression or sequence.
+Operation-A mathematical process such as addition, subtraction, multiplication, or division.
+Property-A characteristic that applies to numbers or operations, like the commutative or associative property.
+Order of Operations-The rules that define the correct sequence to evaluate expressions.
+Unit-A standard quantity used for measurement.
+Measurement-The process of determining the size, length, or amount of something.
+Time-A measurement of the ongoing sequence of events.
+Money-A system used to measure the value of goods and services.
+Temperature-A measure of how hot or cold something is.
+Weight-A measure of the force of gravity on an object.
+Length-A measure of distance from one point to another.
+Capacity-The amount a container can hold.
+Speed-The rate of movement or progress.
+Associative Property-A property stating that the grouping of numbers does not change their sum or product.
+Commutative Property-A property stating that the order of numbers does not change their sum or product.
+Distributive Property-A property showing how multiplication affects addition or subtraction inside parentheses.
+Identity Property-A property where adding zero or multiplying by one does not change a number.
+Inverse Property-A property that uses opposites to cancel out a number.
+Zero Property of Multiplication-A property stating that any number multiplied by zero equals zero.
+Algebra-A branch of mathematics dealing with symbols and rules for manipulating those symbols.
+Arithmetic-The branch of mathematics that deals with basic operations like addition, subtraction, multiplication, and division.
+Numeral-A symbol or group of symbols representing a number.
+Ordinal Number-A number that shows position or order in a list.
+Cardinal Number-A number that shows quantity or "how many".
+Whole Number-A non-negative integer including zero.
+Natural Number-A positive integer starting from 1 and continuing indefinitely.
+Integer-A whole number that can be positive, negative, or zero.
+Rational Number-A number that can be written as a fraction or a ratio of two integers.
+Irrational Number-A number that cannot be expressed as a fraction and has an infinite non-repeating decimal part.
+Real Number-Any number that can be found on the number line, including rational and irrational numbers.
+Imaginary Number-A number that involves the square root of a negative number.
+Complex Number-A number that has both a real and an imaginary part.
+Exponent-A number that shows how many times the base is multiplied by itself.
+Power-The result of a base raised to an exponent.
+Base-The number that is multiplied by itself in repeated multiplication.
+Scientific Notation-A method of writing very large or very small numbers using powers of ten.
+Order of Magnitude-A way of expressing numbers on a logarithmic scale, often in powers of ten.
+Prime Factorization-Expressing a number as a product of its prime factors.
+Greatest Common Factor-The largest number that divides two or more numbers without a remainder.
+Least Common Multiple-The smallest number that is a multiple of two or more numbers.
+Divisibility-The ability of one number to be divided by another without leaving a remainder.
+Remainder-The amount left over after division.
+Quotient-The result of division.
+Dividend-The number being divided in division.
+Divisor-The number that divides another number.
+Scaling-The process of increasing or decreasing numbers by multiplying or dividing.
+Proportional Relationship-A relationship where two quantities increase or decrease at the same rate.
+Direct Variation-A relationship between two variables where one is a constant multiple of the other.
+Inverse Variation-A relationship where one variable increases as the other decreases.
+Percent Increase-The percent by which a number grows relative to its original value.
+Percent Decrease-The percent by which a number reduces relative to its original value.
+Simple Interest-Interest calculated only on the original amount invested or loaned.
+Compound Interest-Interest calculated on both the initial principal and the accumulated interest.
+Savings-Money set aside for future use.
+Debt-Money that is owed to others.
+Budget-A plan for managing income and expenses.
+Income-Money received, especially on a regular basis, for work or through investments.
+Expense-Money spent on goods and services.
+Tax-A compulsory financial charge imposed by a government.
+Tip-An extra amount of money given for service.
+Discount-A reduction in price.
+Markup-The amount added to the cost of goods to cover expenses and profit.
+Balance-The amount of money available in a financial account.
+Deposit-Money placed into a financial account.
+Withdrawal-Money taken out of a financial account.
+Transaction-Any financial activity involving money.
+Currency-The system of money used in a country.
+Exchange Rate-The value of one currency compared to another.
+Inequality Symbols-Symbols like <, >, ≤, and ≥ used to compare numbers.
+Interval-A range of numbers between two endpoints.
+Domain-The set of all possible input values of a function.
+Range (Function)-The set of all possible output values of a function.
+Continuous Function-A function with no breaks, jumps, or holes in its graph.
+Discrete Function-A function with distinct and separate values.
+Linear Equation-An equation whose graph is a straight line.
+Quadratic Equation-An equation where the highest degree of the variable is two.
+Polynomial-An expression consisting of variables, coefficients, and exponents combined using addition, subtraction, and multiplication.
+Binomial-A polynomial with two terms.
+Trinomial-A polynomial with three terms.
+Degree of a Polynomial-The highest exponent of the variable in a polynomial.
+Root of an Equation-A solution that makes the equation equal to zero.
+Axis of Symmetry-A line that divides a figure or graph into two identical halves.
+Vertex (Graph)-The highest or lowest point on a graph of a quadratic function.
+Slope-Intercept Form-A way of writing the equation of a line as y = mx + b.
+Standard Form (Equation)-A way of writing an equation where terms are ordered by degree.
+Factoring-Rewriting an expression as a product of its factors.
+Completing the Square-A method of solving quadratic equations by creating a perfect square trinomial.
+Quadratic Formula-A formula used to find the solutions of a quadratic equation.
+Inequality Graph-A graph showing the solutions of an inequality.
+Function Notation-A way to write functions using symbols like f(x).
+Transformation (Graph)-A change to a graph’s position, shape, or size.
+Reflection-A flip of a graph over an axis.
+Translation (Graph)-A shift of a graph horizontally or vertically.
+Dilation-A stretching or shrinking of a graph.
+Rotation-Turning a figure around a point by a certain angle.
+Congruent Figures-Figures that have the same shape and size.
+Similar Figures-Figures that have the same shape but may differ in size.
+Scale Factor-A number used to multiply the dimensions of a figure to create a similar figure.
+Pythagorean Theorem-A formula relating the sides of a right triangle: a² + b² = c².
+Distance Formula-A formula for finding the distance between two points on a coordinate plane.
+Midpoint Formula-A formula to find the point exactly halfway between two points.
+Parallel Lines-Lines in a plane that never intersect.
+Perpendicular Lines-Lines that intersect at a right angle.
+Tessellation-A pattern of shapes that fit perfectly together without gaps or overlaps.
+Symmetry-A balanced arrangement of equivalent parts on opposite sides of a line or point.
+Rotational Symmetry-A figure that looks the same after some rotation.
+Line of Symmetry-A line that divides a figure into two matching parts.
+Fractal-A geometric figure that can be split into parts, each of which is a smaller copy of the whole.
+Algorithm-A step-by-step procedure used for solving problems.
+Statistics-The study of collecting, analyzing, and interpreting data.
+Probability Model-A mathematical representation of a random process.
+Random Sample-A subset of a population chosen without bias.
+Survey-A method of gathering information from a group of people.
+Experiment (Statistics)-A procedure used to test a hypothesis by collecting data.
+Simulation-An experiment that imitates a real-world process using models or computers.
+Theoretical Probability-The probability based on reasoning or calculations rather than experiments.
+Experimental Probability-The probability based on the results of actual experiments.
+Venn Diagram-A diagram showing relationships among sets using overlapping circles.
+Set-A collection of distinct objects or numbers.
+Subset-A set containing some or all elements of another set.
+Universal Set-The set containing all elements under consideration in a given context.
+Union (Set)-The set of all elements that are in either of two sets.
+Intersection (Set)-The set of elements that are common to two sets.
+Complement (Set)-The set of elements not in a given set but in the universal set.
+
