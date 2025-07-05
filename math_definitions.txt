@@ -421,4 +421,204 @@ Universal Set-The set containing all elements under consideration in a given con
 Union (Set)-The set of all elements that are in either of two sets.
 Intersection (Set)-The set of elements that are common to two sets.
 Complement (Set)-The set of elements not in a given set but in the universal set.
-
+Supervised Learning-A machine learning technique where the model learns from labeled data.
+Unsupervised Learning-A machine learning technique where the model finds patterns in unlabeled data.
+Semi-Supervised Learning-A learning method using a small amount of labeled data with a large amount of unlabeled data.
+Reinforcement Learning-A learning technique where an agent learns by interacting with an environment and receiving rewards or penalties.
+Classification-A task of predicting discrete class labels.
+Regression-A task of predicting continuous numeric values.
+Clustering-A technique to group similar data points without labeled responses.
+Overfitting-A modeling error where a model learns noise instead of the underlying pattern.
+Underfitting-A modeling error where the model is too simple to capture data patterns.
+Bias-An error due to incorrect assumptions in the learning algorithm.
+Variance-An error due to excessive sensitivity to training data fluctuations.
+Generalization-The ability of a model to perform well on unseen data.
+Cross-Validation-A technique to assess how the results of a model will generalize to an independent dataset.
+K-Fold Cross-Validation-A method of cross-validation that splits the data into k subsets and trains k models.
+Train-Test Split-A method for evaluating a model by dividing data into training and testing sets.
+Feature-An individual measurable property or characteristic of a phenomenon being observed.
+Feature Engineering-The process of creating new input features from existing data.
+Feature Selection-The process of selecting the most relevant features for use in model training.
+Normalization-Scaling data to have zero mean and unit variance or within a specific range.
+Standardization-Scaling features to have a mean of zero and a standard deviation of one.
+Dimensionality Reduction-The process of reducing the number of features in a dataset.
+Principal Component Analysis (PCA)-A dimensionality reduction technique using orthogonal transformation.
+Singular Value Decomposition (SVD)-A matrix factorization technique used in dimensionality reduction.
+Autoencoder-A neural network used for unsupervised feature learning and dimensionality reduction.
+Nearest Neighbor-A method that predicts based on the closest training data points.
+K-Nearest Neighbors (KNN)-A classification method using the k closest data points for prediction.
+Linear Regression-A regression algorithm modeling the relationship between variables linearly.
+Logistic Regression-A classification algorithm for binary or multiclass classification.
+Decision Tree-A tree-based algorithm for classification and regression tasks.
+Random Forest-An ensemble learning method combining multiple decision trees.
+Gradient Boosting-An ensemble method that builds models sequentially to correct previous errors.
+XGBoost-An optimized implementation of gradient boosting for speed and performance.
+LightGBM-A gradient boosting framework designed for speed and efficiency on large datasets.
+CatBoost-A gradient boosting library optimized for categorical features.
+Support Vector Machine (SVM)-A supervised learning model for classification and regression using hyperplanes.
+Kernel Trick-A technique used in SVMs to enable nonlinear classification using kernel functions.
+Naive Bayes-A probabilistic classifier based on Bayes' theorem with the assumption of feature independence.
+Gaussian Naive Bayes-A Naive Bayes classifier assuming Gaussian-distributed features.
+Bernoulli Naive Bayes-A Naive Bayes classifier for binary/boolean features.
+Multinomial Naive Bayes-A Naive Bayes classifier for count data or discrete features.
+Neural Network-A computational model inspired by biological neural networks for learning tasks.
+Deep Learning-A subset of machine learning involving deep neural networks with multiple layers.
+Artificial Neural Network (ANN)-A neural network consisting of input, hidden, and output layers.
+Convolutional Neural Network (CNN)-A deep learning model specialized in processing grid-like data such as images.
+Recurrent Neural Network (RNN)-A type of neural network suited for sequential data.
+Long Short-Term Memory (LSTM)-A type of RNN designed to learn long-term dependencies.
+Gated Recurrent Unit (GRU)-A simplified version of LSTM for learning sequences.
+Transformer-A deep learning architecture using self-attention mechanisms for sequential tasks.
+Attention Mechanism-A technique that allows models to focus on specific parts of the input sequence.
+Self-Attention-A method where a sequence pays attention to different parts of itself.
+Multi-Head Attention-A mechanism combining multiple attention layers for better learning.
+Positional Encoding-A technique to inject sequence order information into transformer models.
+Activation Function-A function that introduces non-linearity into a neural network.
+ReLU (Rectified Linear Unit)-A widely used activation function that outputs zero for negative inputs.
+Sigmoid-An activation function that maps values to the range (0,1).
+Tanh-An activation function that maps values to the range (-1,1).
+Softmax-An activation function that turns logits into probabilities for classification tasks.
+Loss Function-A function that measures the difference between predicted and actual values.
+Mean Squared Error (MSE)-A common loss function for regression tasks.
+Cross-Entropy Loss-A loss function used for classification tasks.
+Hinge Loss-A loss function used mainly for "maximum-margin" classifiers like SVMs.
+Optimizer-An algorithm that updates the model parameters to minimize loss.
+Stochastic Gradient Descent (SGD)-A basic optimization algorithm that updates model parameters based on gradients.
+Momentum-An optimization technique that accelerates gradient descent by using past updates.
+Adam-An optimization algorithm that combines momentum and adaptive learning rates.
+Learning Rate-A hyperparameter that controls the step size during optimization.
+Learning Rate Decay-A technique that reduces the learning rate over time to improve convergence.
+Early Stopping-A method to stop training when the model performance on validation data stops improving.
+Regularization-Techniques used to prevent overfitting by penalizing complex models.
+L1 Regularization-A regularization technique that encourages sparsity by adding the absolute value of weights.
+L2 Regularization-A regularization method that discourages large weights by adding the squared value of weights.
+Dropout-A regularization technique where random neurons are ignored during training.
+Batch Normalization-A technique to normalize the activations of each layer in a neural network.
+Mini-Batch Gradient Descent-A method that splits the dataset into small batches for training.
+Epoch-One complete pass through the entire training dataset.
+Batch Size-The number of samples processed before the model updates its weights.
+Hyperparameter Tuning-The process of finding the best set of hyperparameters for a model.
+Grid Search-A method for hyperparameter tuning that exhaustively searches over a specified parameter grid.
+Random Search-A method for hyperparameter tuning that selects random hyperparameter combinations.
+Bayesian Optimization-A probabilistic method for optimizing hyperparameters efficiently.
+Ensemble Learning-Combining multiple models to improve predictive performance.
+Bagging-A technique that trains multiple models independently and averages their predictions.
+Boosting-A technique that trains models sequentially, each correcting the previous one’s errors.
+Stacking-An ensemble method that combines predictions from multiple models using another model.
+Outlier-A data point that differs significantly from others in a dataset.
+Anomaly Detection-The process of identifying abnormal or unusual patterns in data.
+Label Encoding-A technique that converts categorical labels into numeric values.
+One-Hot Encoding-A technique that converts categorical variables into binary vectors.
+SMOTE (Synthetic Minority Over-sampling Technique)-A technique for handling imbalanced datasets by oversampling the minority class.
+ROC Curve-A graphical plot showing the performance of a binary classifier.
+Precision-The ratio of correctly predicted positive observations to the total predicted positives.
+Recall-The ratio of correctly predicted positive observations to all actual positives.
+F1 Score-The harmonic mean of precision and recall.
+Confusion Matrix-A table showing true positives, false positives, true negatives, and false negatives.
+AUC-ROC-A metric that summarizes the ROC curve performance into a single value.
+Mean Absolute Error (MAE)-A regression metric that measures the average magnitude of errors.
+R-squared-A statistical measure of how well a model explains the variance of the outcome.
+Gradient Descent-An optimization algorithm that minimizes a loss function by updating parameters in the opposite direction of the gradient.
+Derivative-The rate at which a function changes with respect to its variable.
+Differentiation-The process of finding the derivative of a function.
+Function-A relation where each input has exactly one output.
+Limit-The value a function approaches as the input approaches some value.
+Slope-The measure of steepness of a line, equivalent to the derivative for linear functions.
+Rate of Change-The speed at which one quantity changes with respect to another.
+Instantaneous Rate of Change-The derivative at a specific point, representing the slope of the tangent.
+Secant Line-A line intersecting two points on a curve.
+Tangent Line-A line that touches a curve at a point without crossing it, with slope equal to the derivative at that point.
+Differentiable Function-A function that has a derivative at each point in its domain.
+Non-Differentiable Function-A function that lacks a derivative at certain points or intervals.
+Continuity-A property of a function without breaks or holes, necessary for differentiability.
+Critical Point-A point where the derivative is zero or undefined, often linked to maxima or minima.
+Stationary Point-A point where the derivative equals zero.
+Local Maximum-A point where the function reaches a peak locally.
+Local Minimum-A point where the function reaches a valley locally.
+Global Maximum-The highest point of a function over its domain.
+Global Minimum-The lowest point of a function over its domain.
+Monotonic Function-A function that is either entirely non-increasing or non-decreasing.
+Increasing Function-A function whose derivative is positive over an interval.
+Decreasing Function-A function whose derivative is negative over an interval.
+Concavity-The direction in which a curve bends; related to the second derivative.
+Concave Up-A curve where the second derivative is positive.
+Concave Down-A curve where the second derivative is negative.
+Point of Inflection-A point where the concavity of the function changes.
+First Derivative Test-A method to determine local extrema using the first derivative.
+Second Derivative Test-A method to classify critical points using the second derivative.
+Higher-Order Derivative-Derivatives of a function beyond the first derivative.
+Chain Rule-A rule for finding the derivative of a composite function.
+Product Rule-A rule for differentiating the product of two functions.
+Quotient Rule-A rule for differentiating the quotient of two functions.
+Power Rule-A basic rule for finding the derivative of a power function.
+Implicit Differentiation-A technique for finding derivatives of implicit functions.
+Partial Derivative-The derivative of a function with respect to one variable while keeping others constant.
+Gradient-A vector containing all partial derivatives of a function.
+Directional Derivative-The rate of change of a function in a specified direction.
+Jacobian Matrix-A matrix of first-order partial derivatives of a vector-valued function.
+Hessian Matrix-A square matrix of second-order partial derivatives, used in optimization.
+Parametric Derivative-The derivative of parametric equations with respect to their parameter.
+Logarithmic Differentiation-A technique to differentiate functions involving logarithms.
+Derivative of Exponential Functions-The derivative of functions involving exponential terms.
+Derivative of Logarithmic Functions-The derivative of functions involving logarithms.
+Derivative of Trigonometric Functions-Derivatives of sine, cosine, tangent, etc.
+Derivative of Inverse Trigonometric Functions-Derivatives of arcsin, arccos, arctan, etc.
+Implicit Function Theorem-A theorem ensuring the existence of implicit derivatives under certain conditions.
+Mean Value Theorem-A theorem that guarantees the existence of a point with the instantaneous rate of change equal to the average rate.
+Rolle’s Theorem-A special case of the Mean Value Theorem with equal function values at endpoints.
+L’Hôpital’s Rule-A method for evaluating limits involving indeterminate forms using derivatives.
+Newton’s Method-A root-finding algorithm using derivatives to approximate solutions.
+Taylor Series-An infinite sum of terms representing a function using its derivatives at a point.
+Maclaurin Series-A Taylor series centered at zero.
+Linear Approximation-An estimation of function values near a point using the tangent line.
+Differentials-An approximation of changes in function values using derivatives.
+Optimization-The process of finding maximum or minimum values using derivatives.
+Related Rates-A method of finding the rate at which related quantities change.
+Implicit Curve-A curve defined by an equation where y is not explicitly solved for x.
+Parametric Curve-A curve defined by parametric equations involving a parameter.
+Curvature-A measure of how rapidly a curve changes direction.
+Arc Length-The distance along a curve, often computed using derivatives.
+Velocity-The derivative of position with respect to time.
+Acceleration-The derivative of velocity; second derivative of position.
+Jerk-The derivative of acceleration; third derivative of position.
+Snap-The fourth derivative of position with respect to time.
+Pop-The fifth derivative of position with respect to time.
+Crackle-The sixth derivative of position with respect to time.
+Torsion-A measure of the twisting of a space curve, related to derivatives.
+Sensitivity Analysis-The study of how changes in input affect output, often using derivatives.
+Gradient Descent-An optimization method that uses derivatives to minimize functions.
+Backpropagation-A method for training neural networks using derivatives to compute gradients.
+Sobolev Space-A function space that considers both functions and their derivatives.
+Differential Equation-An equation involving derivatives of a function.
+Ordinary Differential Equation (ODE)-A differential equation involving functions of a single variable.
+Partial Differential Equation (PDE)-A differential equation involving multiple variables.
+Separable Differential Equation-A type of ODE that can be solved by separating variables.
+Homogeneous Differential Equation-A differential equation where each term is proportional to the dependent variable or its derivatives.
+Exact Differential Equation-A differential equation that can be solved by finding an exact differential.
+Integrating Factor-A function used to simplify solving certain differential equations.
+Bernoulli Differential Equation-A type of nonlinear differential equation.
+Euler’s Method-A numerical technique for solving ODEs using derivatives.
+Runge-Kutta Method-A higher-order numerical method for solving differential equations.
+Stiff Equation-A differential equation requiring specialized methods for stable numerical solutions.
+Jacobi’s Method-A numerical method using derivatives for solving systems of linear equations.
+Fourier Series-A way to represent functions as sums of sines and cosines, linked to derivatives.
+Fourier Transform-A mathematical transform linking derivatives and frequency domain analysis.
+Laplace Transform-A technique to solve differential equations by transforming them into algebraic equations.
+Green’s Function-A method for solving inhomogeneous differential equations using derivatives.
+Boundary Conditions-Constraints involving derivatives at the boundaries of a domain.
+Cauchy Problem-A type of differential equation problem with specified initial conditions.
+Initial Value Problem-A problem where the solution to a differential equation must satisfy initial conditions.
+Variational Calculus-The study of optimization involving functionals and their derivatives.
+Euler-Lagrange Equation-A fundamental equation of variational calculus involving derivatives.
+Hamiltonian Mechanics-A reformulation of classical mechanics using derivatives in phase space.
+Gradient Vector Field-A field defined by the gradient (derivatives) of a scalar function.
+Divergence-A scalar measure of the magnitude of a vector field's source or sink, involving derivatives.
+Curl-A measure of the rotation of a vector field, involving derivatives.
+Laplace Operator-A differential operator equal to the divergence of the gradient, used in PDEs.
+Schwarz’s Theorem-A result stating that mixed partial derivatives are equal under certain conditions.
+Taylor Polynomial-A finite sum approximation of a function using its derivatives.
+Cusp-A point where a function has a sharp point with an undefined derivative.
+Corner-A point where the derivative changes abruptly, making it non-differentiable.
+Vertical Tangent-A point where the slope of the tangent line approaches infinity.
+Osculating Circle-A circle that best approximates a curve near a point, involving derivatives.
+Envelopes-Curves that are tangent to each member of a family of curves, defined by derivatives.
